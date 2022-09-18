@@ -36,7 +36,6 @@ const movies = [
 ];
 
 function lookingMovie(name, prop) {
-    
     for (let i = 0; i < movies.length; i++) {
         
         if (movies[i].movieName === name) {
