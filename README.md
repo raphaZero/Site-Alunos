@@ -3,5 +3,6 @@
  ---
  Todos os colaboradores e seus respectivos perfis do LINKEDIN && Git Hub estão salvos na página, o nome dos colaboradores também pode ser consultado na seguinte lista:
  -Raphael Ramos da Silva
+ -Rafael Nascimento da Silva Barros
 
 
